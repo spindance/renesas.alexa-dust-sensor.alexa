@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "SensorStatusIntent",
+      "slots": [
+        {
+          "name": "Sensor_Selection",
+          "type": "Sensor_Options"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

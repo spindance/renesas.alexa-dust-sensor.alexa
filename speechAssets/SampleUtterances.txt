@@ -1,0 +1,3 @@
+SensorStatusIntent What is the current {Sensor_Selection}
+SensorStatusIntent What is my current {Sensor_Selection}
+SensorStatusIntent What is current {Sensor_Selection}
