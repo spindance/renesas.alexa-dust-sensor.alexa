@@ -1,4 +1,4 @@
-# Renesas.alexa-poc.alexa
+# Renesas.alexa-dust-sensor.alexa
 Contains Renesas IoT Sandbox Dust Sensor and Alexa workflow code, Alexa speech assets, and a walkthrough for creating an Alexa skill and integrating it with the Renesas IoT Sandbox.
 
 # Walkthrough
