@@ -41,7 +41,7 @@ For this walkthrough we will be creating a skill type with a **Custom Interactio
 On the **Interaction Model** configuration panel, configure the intent schema, custom types, and sample utterances.
 * [Intent Schema](/speechAssets/IntentSchema.json) - The intent schema defines the interface between Alexa and alexa request handlers.
 * [Custom Slot Types](/speechAssets/CustomTypes.yml) - Specifies the custom types being used by the intent schema. The file is in yaml format for readability and organizational purpose. Refer to the Alexa Skill Configuration UI for the proper way to insert the data.
-* [Sample Utterances](/speechAssets/SampleUtterances.yml) - A list of specific examples that help Alexa understand what the user is attempting to do.
+* [Sample Utterances](/speechAssets/SampleUtterances.txt) - A list of specific examples that help Alexa understand what the user is attempting to do.
 
 After configuration, the interaction model should look like the following:
 
